@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Python-3.6-blue?style=flat)
 ![](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-このパッケージは Git で管理されているプロジェクトから .gitignore されているファイルのみを別ディレクトリに複製してくれるコマンド `git-release` を追加します。
+このパッケージは Git で管理されているプロジェクトから .gitignore されていないファイルのみを別ディレクトリに複製してくれるコマンド `git-release` を追加します。
 
 このパッケージは、自分が RimWorld の MOD を Git で管理したいがために作成しました。
 RimWorld はたとえ有効化されていなくても、同じ識別子の MOD があるだけでエラーを吐く事。
